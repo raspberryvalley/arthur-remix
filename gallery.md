@@ -25,3 +25,7 @@ We look at the ISS, ISS looks at us. Below is an amazing snapshot of Scandinavia
 > *City lights clearly show the recognizable coastline of the Skagerrak and Kattegat seaway leading into the Baltic Sea that separates Denmark from its neighbours to the north.*
 
 > *The largest light clusters on the seaway are the capital cities of Oslo and Copenhagen. Cities facing the Baltic are the Polish port of Gdansk and the Swedish capital, Stockholm. Smaller cities in northern Germany reveal the Baltic coastline (lower right).*"
+
+Below you will find a great pic, above Arthur, during a super-moon full eclipse on January 21st, 2019
+
+![supereclipse and Arthur](img/supereclipse-2019-01-21.jpg)
