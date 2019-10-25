@@ -14,8 +14,6 @@ We have embraced this great idea, and the [paper 3D model](https://github.com/Ap
 
 Further, we wanted to add other consumers of the information feeds, such as Arduino devices and other gadgets. As we already have a bunch of projects running a Raspberry Pi MQTT server with Node-RED, development soon turned to this direction. As we have a team of people with great ideas (and schools we work with full of children with even greater ideas), we have multiple versions of the original.
 
-> We are, a group of makers in Karlskrona, Sweden. Check out our site [Raspberry Valley](https://raspberry-valley.azurewebsites.net) for our projects and guides, and for more links (Twitter, Github, Docker and more).
-
 ## Introduction
 
 There are several versions of software present in our repository, in order to cover several scenarios. Choose one or the other (or all) to setup your ISS station
@@ -99,6 +97,14 @@ Most of the subscriber scenarios require you to run several scripts. For your co
 ```bash
 python launcher.py
 ```
+
+## About
+
+Raspberry Valley is a maker community in Karlskrona, Sweden, sponsored by [Dynapac](https://dynapac.com/en). We run makerspaces every week, working with Raspberry Pis, Arduinos and other interesting hardware.
+
+This repository is here to support our community of makers. A lot of our achievements are based and inspired by the community at large. We wish to pay back and share our experiences and lessons learned. Join us!
+
+You can find our pages here: [Raspberry Valley](https://raspberry-valley.azurewebsites.net). You can also join us on [Twitter](https://twitter.com/RaspberryValley) or check [Docker Hub](https://hub.docker.com/r/raspberryvalley/) for images of interest.
 
 ## Links
 
