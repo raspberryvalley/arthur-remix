@@ -57,3 +57,11 @@ And while you're testing, try out other locations of our friends out there:
 | Sweden         | Ronneby    | 56.20999  | 15.27602   |
 | Czech Republic | Liberec    | 50.76711  | 15.05619   |
 | Canada         | North Bay  | 46.322536 | -79.456360 |
+
+## Tips
+
+* Regular Expressions: The *open-notify* service responses can be parsed in multiple ways. You might want to apply a regular expression to simplify the string:
+
+```json
+"risetime": (\d+)
+```
